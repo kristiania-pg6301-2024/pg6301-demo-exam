@@ -5,15 +5,13 @@
 For å bli godkjent for å gå opp til eksamen må du få godkjent et arbeidskrav. Arbeidskravet utgjør innholdet av de [første 6 øvingene](https://github.com/kristiania-pg6301-2024/pg6301-frontend-programming/blob/exercise/06/start/README.md). Du skal løse oppgaven med en annen student. Ta kontakt med læreren dersom du har behov for å løse den alene eller i en gruppe på tre.
 
 1. Opprett et repository for oppgaven ved å benytte [invitasjonslenke](https://classroom.github.com/a/RA4vIRcf)
-    > Viktig: Du må opprette repository med lenken for at læreren skal få tilgang til å rette innleveringen
-    - Kun én av dere opprette repository og gi den andre tilgang
+   > Viktig: Du må opprette repository med lenken for at læreren skal få tilgang til å rette innleveringen
+   - Kun én av dere opprette repository og gi den andre tilgang
 2. Bygg en applikasjon som gjenspeiler [øvingene](https://github.com/kristiania-pg6301-2024/pg6301-frontend-programming/blob/exercise/06/start/README.md), inkludert deployment til Heroku
 3. Pass på å oppdatere README-fila med en lenke til Heroku-appen
 4. Begge partnerne i gruppa skal besvare oppgaven i Canvas med link til GitHub repository
 
-
 **Frist**: 10. oktober
-
 
 ## Mal for innlevering
 
