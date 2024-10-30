@@ -15,7 +15,7 @@ function Application() {
     const tasks = [
       { description: "get it to work", completed: true },
       { description: "move tasks to server", completed: false },
-      { description: "deploy to heroku", completed: false },
+      { description: "deploy to heroku", completed: true },
     ];
     setTasks(tasks);
   }
